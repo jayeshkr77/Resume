@@ -7,11 +7,11 @@ Jayeshkumar044@gmail.com | +919471369702 | github.com/jayeshkr77 | linkedin.com/
 ### Software Engineer at Openbet Pvt Ltd. February 2022 - Present
 
 + Developed and deployed the Terminal Watcher Service, automating upgrades for over 300+ betting terminals by leveraging AWS S3 bucket, eliminating the need for admin intervention during upgrades.
-+ Optimized SSBT state management using the Memento design pattern, improving maintainability and enabling seamless undo/rollback for bet cashouts and balance updates, reducing error rates by 20\%. 
-+ Refactored the SSBT codebase by introducing Decorator and Factory design patterns to create an extendable framework for events related to doors, note acceptors, and scanners, reducing the integration time for new peripherals by 40\% and improving scalability and maintainability.
-+ Developed and implemented the feature to link multiple bettor accounts with automated synchronization of settings, cashout limits, and other key values, promoting responsible gaming and reducing tax fraud by 40\%, in adherence to Australian taxation regulations.
++ Optimized SSBT state management using the Memento design pattern, improving maintainability and enabling seamless undo/rollback for bet cashouts and balance updates, reducing error rates by 20%. 
++ Refactored the SSBT codebase by introducing Decorator and Factory design patterns to create an extendable framework for events related to doors, note acceptors, and scanners, reducing the integration time for new peripherals by 40% and improving scalability and maintainability.
++ Developed and implemented the feature to link multiple bettor accounts with automated synchronization of settings, cashout limits, and other key values, promoting responsible gaming and reducing tax fraud by 40%, in adherence to Australian taxation regulations.
 + Spearheaded the upgrade of legacy Node.js services, third-party dependencies, and Redis, significantly boosting performance while mitigating 200+ security vulnerabilities and eliminating deprecated packages.
-+ Authored multiple shell scripts for fault detection and automated file backups before deployment using Ansible, enhancing system monitoring, improving CPU utilization by 40\%, and reducing TCP socket usage by 10\%. 
++ Authored multiple shell scripts for fault detection and automated file backups before deployment using Ansible, enhancing system monitoring, improving CPU utilization by 40%, and reducing TCP socket usage by 10%. 
 + Authored Java Cucumber tests to automate component and integration testing, improving test coverage. 
 
 ### System Engineer at Infosys Ltd. October 2019 - February 2022
