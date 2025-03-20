@@ -1,49 +1,45 @@
 # JAYESH KUMAR
 
-Jayeshkumar044@gmail.com | +919471369702 | github.com/jayeshkr77 | linkedin.com/in/jayeshkumar
+Jayeshkumar044@gmail.com | +91 7760942502 | github.com/jayeshkr77 | linkedin.com/in/jayeshkumar | leetcode.com/u/jayeshkumar07/
 
 ## WORK EXPERIENCE
 
 ### Software Engineer at Openbet Pvt Ltd. February 2022 - Present
-
-+ Developed and deployed the Terminal Watcher Service, automating upgrades for over 300+ betting terminals by leveraging AWS S3 bucket, eliminating the need for admin intervention during upgrades.
-+ Optimized SSBT state management using the Memento design pattern, improving maintainability and enabling seamless undo/rollback for bet cashouts and balance updates, reducing error rates by 20%. 
-+ Refactored the SSBT codebase by introducing Decorator and Factory design patterns to create an extendable framework for events related to doors, note acceptors, and scanners, reducing the integration time for new peripherals by 40% and improving scalability and maintainability.
-+ Developed and implemented the feature to link multiple bettor accounts with automated synchronization of settings, cashout limits, and other key values, promoting responsible gaming and reducing tax fraud by 40%, in adherence to Australian taxation regulations.
-+ Spearheaded the upgrade of legacy Node.js services, third-party dependencies, and Redis, significantly boosting performance while mitigating 200+ security vulnerabilities and eliminating deprecated packages.
-+ Authored multiple shell scripts for fault detection and automated file backups before deployment using Ansible, enhancing system monitoring, improving CPU utilization by 40%, and reducing TCP socket usage by 10%. 
-+ Authored Java Cucumber tests to automate component and integration testing, improving test coverage. 
+ 
++ Revamped kiosk state management system utilizing Memento design pattern for seamless error reporting, fault recovery, and rollback states for financial transactions(e.g., bet cashouts, balances), reducing error rates by 40%
++ Designed a Terminal Watcher with AWS S3 and Apache Kafka for real-time notifications and state management, automating upgrades for 400+ betting terminals, eliminating manual updates and streamlining operations
++ Refactored the SSBT code with design patterns, streamlining hardware peripheral integration and cutting time by 2X
++ Upgraded legacy Node.js services, dependencies, and Redis, boosting performance and resolving 200+ vulnerabilities
++ Optimized Kubernetes resources, slashing infrastructure costs 70%, improving database performance by fixing queries
++ Authored scripts to analyze SAR reports, kernel logs, and syslogs, identifying and resolving critical issues like connection leaks and Chrome memory errors, improving CPU utilization spikes by 80% and reducing TCP socket usage by 10%
++ Developed multi-account linking with automated sync of user settings and limits, promoting responsible gaming, reducing tax frauds by 40% while ensuring compliance with Australian tax regulations
++ Achieved 30% cloud storage cost reduction through CDN integration
 
 ### System Engineer at Infosys Ltd. October 2019 - February 2022
 
-+ Administered, supported, and monitored intranet sites by proactively resolving issues and maintaining on-prem servers.
-+ Authored SPFx – React JS, JavaScript, PowerShell code fixes and enhancements for inclusion in future code releases and
-patches.
-+ Maintained high-level expertise in React state management strategies.
-+ Authored Microsoft's graph API scripts to create automation for Teams and O365 Groups.
-+ Analysed and designed program changes. Reviewed and updated requirements documentation.
-+ Managed quality assurance program, including on-site evaluations, internal audits, and customer surveys.
++ Automated Teams and O365 Group management with Microsoft’s graph API, reducing manual effort by 3X
++ Orchestrated a real-time funds dashboard to manage approval, compliance and notifications, replacing manual Excel/Retool workflow, reducing effort by 40% while improving data accuracy
++ Optimized internal application with lazy loading, caching, access control, action throttling, and refined API calls, reducing page startup time 37%, cutting bandwidth usage 36%, enhancing security, and streamlined approval experience
++ Revamped legacy ASP.NET app, reducing error rates and boosting DB query performance by 2X
++ Authored SPFx– React JS and PowerShell fixes and enhancements, improving system stability and functionality reducing issues by 50%
 + Achievements:
- - Independently optimized an aging code and deployed a new source code, reducing the client's page start up time by 37%.
+ - Independently optimized an ASP.net aging code and deployed a new source code with React and Sharepoint API's, reducing the client's page start up time by 37%.
  - Developed a test automation tool that reduced testing time by 55%.
  - Insta Awards - Sept 2021
 
 ### Full Stack Developer Intern at VROOK July 2018 – November 2018
 
-+ Developed cross-platform UI web components and built 100% responsive applications using ReactJS.
-+ Handled performance and caches to speed up video playback and offline content availability.
-+ Developed NodeJS API endpoints for subscriptions and profile management of users.
-+ Performed debugging on a critical error that saved the company over potential lost revenue in downtime.
-+ Supported programming changes during quality assurance, user acceptance testing, and post-implementation.
++ Developed subscription management and password recovery, boosting retention by 30%, reducing reset requests by 25%
++ Containerized application using docker and CI/CD pipeline, reducing deployment time by 60% and ensuring 99% uptime
++ Deployed Node.js servers using AWS services (EC2, S3, SQS, SES) to ensure scalability and seamless functionality
 
 ## TECHNICAL SKILLS
 
-+ **Programming/Scripting**: Python, JavaScript, TypeScript, C#, Java, PHP, C/C++, PowerShell, Shell Script.
++ **Programming/Scripting**: JavaScript, TypeScript, Java, Python, SQL.
 Web Development Stacks: LAMP, MEAN, MERN, HTML/CSS Bootstrap, HTTP & REST API/SOAP
 + **Framework & Libraries**: Angular JS, React, Express JS, NumPy, Pandas, Flask, Tkinter, Asyncio, Mongoose, Spring boot, ASP.NET.
-+ **Database Technology**: MySQL, Oracle, MongoDB.
++ **Database Technology**: MySQL, MongoDB, Postgres.
 + **Server Management**: Nginx, PM2, SSL certificates.
-+ **Familiar with**: Linux, GIT, Redis, SharePoint, SPFx Webparts, Teams.
 
 ## PROJECTS
 ### Arch – Server Management Tool
