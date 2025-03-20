@@ -1,6 +1,7 @@
 # JAYESH KUMAR
 
-Jayeshkumar044@gmail.com | +91 7760942502 | github.com/jayeshkr77 | linkedin.com/in/jayeshkumar | leetcode.com/u/jayeshkumar07/
+Jayeshkumar044@gmail.com | +91 7760942502 | github.com/jayeshkr77
+linkedin.com/in/jayeshkumar | leetcode.com/u/jayeshkumar07/
 
 ## WORK EXPERIENCE
 
@@ -36,7 +37,6 @@ Jayeshkumar044@gmail.com | +91 7760942502 | github.com/jayeshkr77 | linkedin.com
 ## TECHNICAL SKILLS
 
 + **Programming/Scripting**: JavaScript, TypeScript, Java, Python, SQL.
-Web Development Stacks: LAMP, MEAN, MERN, HTML/CSS Bootstrap, HTTP & REST API/SOAP
 + **Framework & Libraries**: Angular JS, React, Express JS, NumPy, Pandas, Flask, Tkinter, Asyncio, Mongoose, Spring boot, ASP.NET.
 + **Database Technology**: MySQL, MongoDB, Postgres.
 + **Server Management**: Nginx, PM2, SSL certificates.
